@@ -5,6 +5,7 @@ The Pentaho Big Data Plugin Project provides support for an ever-expanding Big D
 
 Building
 --------
+It's a maven build, so `mvn clean install` is a typical default for a local build.
 
 Pre-requisites
 ---------------
@@ -23,6 +24,7 @@ The Pentaho profile defaults to pull all artifacts through the Pentaho public re
 If you want to try resolving maven plugin dependencies through the maven central repository instead of the pentaho public repository, activate the "central" profile like this:
 
 `mvn -s -public-settings.xml -P central install`
+
 
 If your fails to resolve the jacoco-maven-plugin version 0.7.7-SNAPSHOT
 ---------------
