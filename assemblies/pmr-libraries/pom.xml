@@ -452,7 +452,7 @@
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik-anim</artifactId>
-      <version>1.7</version>
+      <version>1.10</version>
     </dependency>
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
@@ -462,7 +462,7 @@
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik-bridge</artifactId>
-      <version>1.7</version>
+      <version>1.10</version>
     </dependency>
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
@@ -477,7 +477,7 @@
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik-dom</artifactId>
-      <version>1.7</version>
+      <version>1.10</version>
     </dependency>
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
@@ -492,7 +492,7 @@
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik-gvt</artifactId>
-      <version>1.7</version>
+      <version>1.8</version>
     </dependency>
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
@@ -502,17 +502,17 @@
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik-script</artifactId>
-      <version>1.7</version>
+      <version>1.8</version>
     </dependency>
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik-svg-dom</artifactId>
-      <version>1.7</version>
+      <version>1.10</version>
     </dependency>
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
       <artifactId>batik-transcoder</artifactId>
-      <version>1.7</version>
+      <version>1.10</version>
     </dependency>
     <dependency>
       <groupId>org.apache.xmlgraphics</groupId>
@@ -557,12 +557,12 @@
     <dependency>
       <groupId>org.drools</groupId>
       <artifactId>drools-compiler</artifactId>
-      <version>5.0.1</version>
+      <version>6.0.0.Final</version>
     </dependency>
     <dependency>
       <groupId>org.drools</groupId>
       <artifactId>drools-core</artifactId>
-      <version>5.0.1</version>
+      <version>6.2.0.Final</version>
     </dependency>
     <dependency>
       <groupId>org.eobjects.sassyreader</groupId>
