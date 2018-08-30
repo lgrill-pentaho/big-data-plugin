@@ -24,7 +24,7 @@
   </scm>
   <properties>
     <common.version>3.3.0-v20070426</common.version>
-    <httpcomponents.version>4.4</httpcomponents.version>
+    <httpcomponents.version>4.5.2</httpcomponents.version>
     <xstream.version>1.4.2</xstream.version>
     <pig.version>0.8.1</pig.version>
     <pentaho-hadoop-shims-cdh54-package.version>${dependency.hadoop-shims-cdh54.revision}</pentaho-hadoop-shims-cdh54-package.version>
